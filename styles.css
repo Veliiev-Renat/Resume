@@ -181,6 +181,9 @@ margin-bottom: 10px
 .contact_link{
    color:A5ADB2; 
 }
+.list__item{
+  margin-bottom: 10px;
+}
 /* Tech Skills */
 .Tech_Skills{
     margin-left: 45px;
